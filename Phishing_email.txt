@@ -1,0 +1,22 @@
+From: FedEx <TrackingUpdates@emails-track.com>
+Subject: Hi, Demo. Your package was scheduled for delivery today.
+Date: [unknown; approximately 4 minutes ago]
+
+Message:
+--------------------------------------------
+Hi, Demo. Your package was scheduled for delivery today.
+
+SCHEDULED DELIVERY MISSED
+--------------------------------------------
+Tuesday 12/15/2020
+Delivery Attempted: Signature Required
+*If we do not receive a response the package will be returned to sender
+
+Delivery Attempted
+[Progress Bar: Delivery Attempted]
+
+MANAGE DELIVERY
+
+TRACKING NUMBER
+74899999124772025144
+--------------------------------------------
